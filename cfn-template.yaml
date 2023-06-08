@@ -51,4 +51,4 @@ Outputs:
     Value: !Sub
       - http://${PublicAddress}
       - PublicAddress: !GetAtt WebServerHost.PublicDnsName
-    Description: Roman Numerals Converter Application URL
+    Description: Gökhan YARDIMCI Roman Numerals Converter Application URL
